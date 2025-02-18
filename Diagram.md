@@ -1,4 +1,4 @@
-'''mermaid 
+```mermaid
 pie showData title Monthly Budget
 
 "Rent" : 1750
