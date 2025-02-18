@@ -1,5 +1,5 @@
-'''mermaid
 pie showData title Monthly Budget
+
 "Rent" : 1750
 "Food" : 880
 "Insurance" : 276
